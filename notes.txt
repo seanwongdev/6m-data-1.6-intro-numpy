@@ -1,0 +1,4 @@
+Conda = package maanger and environment manager (isolates files that you're working with)
+- conda env list
+- conda activate pds
+- conda config --set auto_activate_base false
